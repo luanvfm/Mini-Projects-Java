@@ -1,3 +1,4 @@
+//Projeto para Treinar Encapsulamento.
 public class Carro {
 //A classe carro é pública para que eu possa acessar ela de qualquer lugar.    
     private String cor;
