@@ -1,2 +1,2 @@
 # Mini-Projects-Java
-Mini Projects Made for my Java Studies.
+Some mini projects that I made while studying the Java Language.
